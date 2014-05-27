@@ -47,7 +47,7 @@ PROFILE_IMAGE_URL = '/images/profile.png'
 SITESUBTITLE = 'Nairobi GNU/Linux Users Group'
 TWITTER_ADDRESS = 'https://twitter.com/nairobilug'
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 THEME = 'crowsfoot'
 FEED_RSS = 'feed/rss.xml'
 
